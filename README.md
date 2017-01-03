@@ -11,7 +11,7 @@ This is a collect of plotting scipt in Julia, Python and R. It contains code for
   
 ## Python
   - [] Simple line/dot plot
-  - [] Mulit lie/dot plot
+  - [] Mulit lie/dot plot
   - [] Histogram
   - [] Bar plot
   - [] Whiskers plot
@@ -19,7 +19,7 @@ This is a collect of plotting scipt in Julia, Python and R. It contains code for
   
 ## R
   - [] Simple line/dot plot
-  - [] Mulit lie/dot plot
+  - [] Mulit lie/dot plot
   - [] Histogram
   - [] Bar plot
   - [] Whiskers plot
