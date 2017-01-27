@@ -1,29 +1,9 @@
 # Plotting
 This is a collect of plotting scipt in Julia, Python and R. It contains code for the followig tasks:
 
-|                     | Python | Python | Python  |  
-|=====================|========|========|=========|
+|                     | Python | Julia  | R       |  
+|---------------------|--------|--------|---------|
 |Simple line/dot plot |        |        |         |  
-
-
-
-## Julia
-  - [] Simple line/dot plot
-  - [] Histogram
-  - [] Bar plot
-  - [] Whiskers plot
-  - [] ROC curve
-  
-## Python
-  - [] Simple line/dot plot
-  - [] Histogram
-  - [] Bar plot
-  - [] Whiskers plot
-  - [] ROC curve
-  
-## R
-  - [] Simple line/dot plot
-  - [] Histogram
-  - [] Bar plot
-  - [] Whiskers plot
-  - [] ROC curve
+|Bar plot             |        |        |         |  
+|Whiskers plot        |        |        |         |  
+|Histogram            |        |        |         |  
