@@ -3,7 +3,7 @@ This is a collect of plotting scipt in Python, Julia and R. It contains code for
 
 |                     | Python | Julia  | R       |  
 |---------------------|--------|--------|---------|
-|Simple line/dot plot |        |        |         |  
+|Simple line/dot plot |    x   |    x   |         |  
 |Bar plot             |        |        |         |  
 |Whiskers plot        |        |        |         |  
 |Histogram            |        |        |         |  
